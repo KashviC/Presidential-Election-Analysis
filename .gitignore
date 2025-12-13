@@ -1,4 +1,4 @@
-jupyter/.ipynb_checkpoints
+*.ipynb_checkpoints*
 *.crc
 by_state/*/_SUCCESS
 by_state_colors/*/_SUCCESS
